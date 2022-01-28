@@ -4,7 +4,7 @@
  * This project is based on using Django 3.2, HTMX and Tailwind
 
 * To run the project first create a virtual enivironment using
-python -m venv E:\Work_Repository\django_dynamic_form_builder\venv
+python -m venv E:\django_dynamic_form_builder\venv
 
 • After that pres ctrl+shift+p
 
